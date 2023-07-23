@@ -1,0 +1,14 @@
+singly linked lists:
+https://medium.com/swlh/singly-linked-list-in-javascript-a0e58d045561
+
+
+toArray:
+https://www.geeksforgeeks.org/convert-a-singly-linked-list-to-an-array/
+
+reverse:
+https://javascript.plainenglish.io/javascript-reverse-linked-list-a2d235d64548
+
+errors
+
+1.TypeError: Cannot set property length of #<List> which has only a getter
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Getter_only
